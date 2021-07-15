@@ -4,7 +4,7 @@
 
 # <b>I do it for the memes</b>
 
-### Create you own memes and and download it locally.
+### Create your own memes and download them locally.
 
 <br>
 
